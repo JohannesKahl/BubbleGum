@@ -78,8 +78,12 @@ interior.element=checkbox
 indicator.element=tree
 indicator.size=8
 
-[[ToolTip]
-frame=false
+[ToolTip]
+frame.top=4
+frame.right=4
+frame.bottom=4
+frame.left=4
+frame=true
 
 [PanelButtonCommand]
 Interior=true
