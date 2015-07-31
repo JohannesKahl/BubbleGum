@@ -1,5 +1,7 @@
 # BubbleGum
 
+![BubbleGum Preview](https://github.com/Hombremaledicto/BubbleGum/blob/master/Preview.png?raw=true)
+
 This repository contains artworks and goodies inspired by the default theme of the Atom text editor.
 So far:
 
