@@ -1,6 +1,8 @@
 # BubbleGum
 
-This repository contains artworks and goodies inspired by the default theme of the Atom text editor.
+![BubbleGum Preview](https://github.com/Hombremaledicto/BubbleGum/blob/master/Preview.png?raw=true)
+
+This repository contains artworks and goodies inspired by the default theme of the [Atom](https://atom.io/) text editor.
 So far:
 
 - A [Kvantum](https://github.com/tsujan/Kvantum) dark preset
