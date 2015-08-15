@@ -20,7 +20,7 @@
    width="844.47083"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="710"
+     inkscape:window-height="742"
      inkscape:window-width="1366"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -32,12 +32,12 @@
      pagecolor="#5a5a5a"
      id="base"
      showgrid="true"
-     inkscape:zoom="8.0000008"
-     inkscape:cx="779.79219"
-     inkscape:cy="326.83273"
-     inkscape:window-x="-2"
-     inkscape:window-y="0"
-     inkscape:current-layer="svg2"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="533.38897"
+     inkscape:cy="656.83568"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:current-layer="slidercursor-focused"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-bbox="true"
@@ -1337,6 +1337,16 @@
        y1="810.58398"
        x2="-660.76416"
        y2="789.58398" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1299"
+       id="linearGradient5341"
+       x1="8.4087877"
+       y1="62.435883"
+       x2="25.162954"
+       y2="62.435883"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90052221,0,0,0.90241524,23.580306,-72.08936)" />
   </defs>
   <g
      style="display:none"
@@ -2070,7 +2080,7 @@
   </g>
   <g
      inkscape:label="#g8021"
-     transform="matrix(0.26434829,0,0,0.26434829,751.42526,274.63406)"
+     transform="matrix(0.26434829,0,0,0.26434829,751.42526,273.63395)"
      id="tab-close-pressed">
     <g
        id="g8051" />
@@ -2191,7 +2201,7 @@
        style="fill:none;stroke:#528bff;stroke-width:1.04444444;stroke-opacity:1"
        height="10.444445"
        ry="5.2222223"
-       rx="5.2222223"
+       rx="5.2222214"
        y="228.25101"
        x="104.857"
        width="10.444445" />
@@ -5811,7 +5821,7 @@
     <circle
        transform="matrix(2.6150829,0,0,2.6557809,-20.966824,-67.064568)"
        id="path3923-5"
-       style="color:#eff0f1;fill:currentColor"
+       style="color:#eff0f1;fill:#b7bac3;fill-opacity:1"
        class="ColorScheme-Background"
        cx="14"
        cy="40"
@@ -5840,11 +5850,20 @@
     <circle
        transform="matrix(2.6150829,0,0,2.6557809,-20.966824,-67.064568)"
        id="path3923-5-2"
-       style="color:#eff0f1;fill:currentColor"
+       style="color:#eff0f1;fill:#b7bac3;fill-opacity:1"
        class="ColorScheme-Background"
        cx="14"
        cy="40"
        r="4" />
+    <ellipse
+       ry="7.7062502"
+       rx="7.5437498"
+       id="path3923-5-2-5"
+       style="color:#eff0f1;fill:url(#linearGradient5341);fill-opacity:1"
+       class="ColorScheme-Background"
+       cx="38.696354"
+       cy="-15.746266"
+       transform="matrix(0,1,-1,0,0,0)" />
   </g>
   <g
      transform="matrix(1.2,0,0,1.2,786.85698,-18.394003)"

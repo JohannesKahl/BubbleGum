@@ -30,7 +30,7 @@ translucent_windows=false
 progressbar_thickness=8
 spread_progressbar=false
 merge_menubar_with_toolbar=true
-small_icon_size=16
+small_icon_size=9
 large_icon_size=32
 button_icon_size=9
 scroll_arrows=false
@@ -137,7 +137,9 @@ text.margin.right=5
 indicator.size=0
 
 [Dock] 
-interior.element=button
+interior.element=toolbar
+frame.element=toolbar
+frame=true
 interior=true
 
 [GroupBox]
@@ -359,6 +361,7 @@ text.margin.right=5
 [StatusBar]
 inherits=Toolbar
 frame.element=toolbar
+font.bold=true
 text.normal.color=#B7BAC3
 frame=true
 frame.top=1
